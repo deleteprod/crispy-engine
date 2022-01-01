@@ -1,0 +1,72 @@
+[Info  - 15:39:28] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 15:39:28] Server root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 15:39:28] No configuration file found.
+[Info  - 15:39:28] No pyproject.toml file found.
+[Info  - 15:39:28] Setting pythonPath for service "crispy-engine": "/bin/python3.10"
+[Warn  - 15:39:28] stubPath /code/crispy-engine/typings is not a valid directory.
+[Info  - 15:39:28] Assuming Python version 3.10
+[Info  - 15:39:28] Assuming Python platform Linux
+[Warn  - 15:39:29] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 15:39:29] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 15:39:29] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 15:39:29] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 15:39:29] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 15:39:29] Searching for source files
+[Info  - 15:39:29] Found 1 source file
+[Info  - 15:39:29] Background analysis(1) root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 15:39:29] Background analysis(1) started
+[Info  - 15:40:03] Searching for source files
+[Info  - 15:40:03] Found 1 source file
+[Info  - 15:42:19] Searching for source files
+[Info  - 15:42:19] Found 1 source file
+[Info  - 15:42:24] Searching for source files
+[Info  - 15:42:24] Found 1 source file
+[Info  - 15:43:44] Searching for source files
+[Info  - 15:43:44] Found 1 source file
+[Info  - 15:44:25] Searching for source files
+[Info  - 15:44:25] Found 1 source file
+[Info  - 15:44:53] Searching for source files
+[Info  - 15:44:53] Found 2 source files
+[Info  - 15:45:21] Searching for source files
+[Info  - 15:45:21] Found 2 source files
+[Info  - 15:46:28] Searching for source files
+[Info  - 15:46:28] Found 2 source files
+[Info  - 15:47:02] Searching for source files
+[Info  - 15:47:02] Found 2 source files
+[Info  - 15:47:23] Searching for source files
+[Info  - 15:47:23] Found 2 source files
+[Info  - 15:47:33] Searching for source files
+[Info  - 15:47:33] Found 2 source files
+[Info  - 15:48:09] Searching for source files
+[Info  - 15:48:09] Found 2 source files
+[Info  - 15:49:22] Searching for source files
+[Info  - 15:49:22] Found 2 source files
+[Info  - 15:49:45] Searching for source files
+[Info  - 15:49:45] Found 2 source files
+[Info  - 15:50:04] Searching for source files
+[Info  - 15:50:04] Found 2 source files
+[Info  - 15:51:04] Searching for source files
+[Info  - 15:51:04] Found 2 source files
+[Info  - 15:51:05] Searching for source files
+[Info  - 15:51:05] Found 2 source files
+[Info  - 15:51:32] Searching for source files
+[Info  - 15:51:32] Found 2 source files
+[Info  - 15:54:35] Searching for source files
+[Info  - 15:54:35] Found 2 source files
+[Info  - 15:54:51] Searching for source files
+[Info  - 15:54:51] Found 3 source files
+[Info  - 16:01:40] Searching for source files
+[Info  - 16:01:40] Found 3 source files
+[Info  - 16:03:36] Searching for source files
+[Info  - 16:03:36] Found 3 source files
+[Info  - 16:09:40] [FG] Long operation: completion at /code/crispy-engine/scripts/fibonacci_3.py:11:4 (4900ms)
+[Info  - 16:13:00] Searching for source files
+[Info  - 16:13:00] Found 3 source files
+[Info  - 16:13:51] Searching for source files
+[Info  - 16:13:51] Found 3 source files
+[Info  - 16:16:02] Searching for source files
+[Info  - 16:16:02] Found 4 source files
+[Info  - 16:16:15] Searching for source files
+[Info  - 16:16:15] Found 4 source files
+[Info  - 16:20:56] Searching for source files
+[Info  - 16:20:56] Found 4 source files
