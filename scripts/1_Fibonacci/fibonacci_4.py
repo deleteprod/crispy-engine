@@ -3,24 +3,22 @@
 # Usage <scriptname.py> <integer>
 
 '''
-Improved version, avoids endless recurison using base cases just
-as version 2 did, but now includes memoisation to prevent needless
-recalculation through the recursive cycle. As an improvement over
-version 3, this includes automatic memoisation.'''
+Moving from recursion to iteration.'''
 
 import sys
-from typing import Dict
-from functools import lru_cache
 
 # Takes passed argument
 n = int(sys.argv[1])
 
 # Use of decorator function for caching
-@lru_cache(maxsize=None)
 def fib(n: int) -> int:
-    if n <2:
-        return n                    # base case
-    return fib(n - 2) + fib(n - 1)  # recursive case
+    if n == 0:
+        return n  # Special case
+    last: int = 0 # Set initial 
+    next: int = 1 # Set initial
+    for _ in range(1, n):
+        last, next = next, last + next
+    return next
 
 def main():
     if __name__ == "__main__":
