@@ -12,7 +12,6 @@ not easily discoverable outside.'''
 
 from genericpath import getsize
 
-
 class CompressedGene:
     def __init__(self, gene: str) -> None:
         self._compress(gene)
