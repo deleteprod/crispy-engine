@@ -6,7 +6,7 @@
 Improved version, avoids endless recurison using base cases just
 as version 2 did, but now includes memoisation to prevent needless
 recalculation through the recursive cycle. As an improvement over
-version 3, this includes automatic memoisation.'''
+version 3, this includes automatic memoisation using lru_cache.'''
 
 import sys
 from typing import Dict
